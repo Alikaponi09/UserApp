@@ -53,7 +53,7 @@ namespace UserApp
                         extit = false;
                         break;
                     default:
-                        Console.WriteLine("Номер не соответствует ни одной функии программы\nПопробуйте снова");
+                        Console.WriteLine("\nНомер не соответствует ни одной функии программы\nПопробуйте снова");
                         break;
                 }
 
